@@ -1,0 +1,15 @@
+
+cyfly network:
+
+first node - creator node ( he will hold the actual key for the website and is the only one who can modify it.)
+he will send encrypted files to all of the nodes, which will create a new folder on their drive, and host the files on it .
+when some node requests that file, he will ask every node on the network for it, so then what happens is, he will be returned an encrypted file that only creator will decrypt, he will ask the creator to return the decrypted thing, so then creator will and that's it.
+
+now because we do not have the webserver.
+we will have to create a rule based system
+what path will redirect where
+
+
+features to add:    
+    AES encryption
+
